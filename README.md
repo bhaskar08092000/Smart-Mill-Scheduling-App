@@ -1,7 +1,4 @@
-# Smart-Mill-Scheduling-App
-Python and Streamlit based Mill Scheduling Application for Thermal Power Plants.
-
-# Mill Scheduling Application
+# Smart Mill Scheduling Application
 
 A Python and Streamlit based application for thermal power plant mill scheduling.
 
