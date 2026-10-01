@@ -43,6 +43,26 @@ Available mills are selected based on priority and mills required.
 
 ## Run Application
 
+# Smart Mill Scheduling App
+
+## Application Screenshots
+
+### 1. Home Page
+![Home Page](1.png)
+
+### 2. Input Parameters
+![Input Parameters](2.png)
+
+### 3. Coal Flow Calculation
+3.png
+
+### 4. Mill Status Evaluation
+4.png
+
+### 5. Scheduling Results
+![Scheduling Resultsard View
+6.png
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
