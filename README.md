@@ -60,8 +60,9 @@ Available mills are selected based on priority and mills required.
 ![](4.png)
 
 ### 5. Scheduling Results
-![Scheduling Resultsard View]
-![](5.png)[](6.png)
+
+![](5.png)
+![](6.png)
 
 ```bash
 pip install -r requirements.txt
